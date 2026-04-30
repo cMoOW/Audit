@@ -100,7 +100,7 @@ So future me: keep what Brandeis taught you about precision, structure, and bein
 ---
 
 ## How to revisit this doc
-- If I only read Parts 1 and 2 and treat Part 3 as a simple disclaimer, then this document failed.  
-- If Part 3 actually changes what I do next, who I call, what I re-check, what I delay, and what I refuse to mindelessly oversimplify then it did its job.  
-- If I use this language to sound thoughtful while making the same decisions in the same way, then this is just moral flourish: reflection as style, not reflection as practice.  
+- If I only revisit parts 1 and 2 and 3 as a simple disclaimer, skipping over the point then this document failed.  
+- If Part 3 actually changes what I do next, who I call, what I re-check, what I delay, and what I think about twice rather than mindelessly oversimplify then it did its job.  
+- If I end up making the same decisions in the same way, then this is just moral flourish, and I failed to make reflection as practice.  
 - I wrote this because I know I need metrics, and I will keep using them. The point is not to reject measurement. The point is to stay honest about what measurement leaves out, and to make decisions with that gap in view instead of pretending it is not there.
